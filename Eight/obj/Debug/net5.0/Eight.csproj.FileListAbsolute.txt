@@ -1,0 +1,16 @@
+D:\Projects\SharpFundamentals\Eight\bin\Debug\net5.0\Eight.exe
+D:\Projects\SharpFundamentals\Eight\bin\Debug\net5.0\Eight.deps.json
+D:\Projects\SharpFundamentals\Eight\bin\Debug\net5.0\Eight.runtimeconfig.json
+D:\Projects\SharpFundamentals\Eight\bin\Debug\net5.0\Eight.runtimeconfig.dev.json
+D:\Projects\SharpFundamentals\Eight\bin\Debug\net5.0\Eight.dll
+D:\Projects\SharpFundamentals\Eight\bin\Debug\net5.0\Eight.pdb
+D:\Projects\SharpFundamentals\Eight\obj\Debug\net5.0\Eight.csproj.AssemblyReference.cache
+D:\Projects\SharpFundamentals\Eight\obj\Debug\net5.0\Eight.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\SharpFundamentals\Eight\obj\Debug\net5.0\Eight.AssemblyInfoInputs.cache
+D:\Projects\SharpFundamentals\Eight\obj\Debug\net5.0\Eight.AssemblyInfo.cs
+D:\Projects\SharpFundamentals\Eight\obj\Debug\net5.0\Eight.csproj.CoreCompileInputs.cache
+D:\Projects\SharpFundamentals\Eight\obj\Debug\net5.0\Eight.dll
+D:\Projects\SharpFundamentals\Eight\obj\Debug\net5.0\refint\Eight.dll
+D:\Projects\SharpFundamentals\Eight\obj\Debug\net5.0\Eight.pdb
+D:\Projects\SharpFundamentals\Eight\obj\Debug\net5.0\Eight.genruntimeconfig.cache
+D:\Projects\SharpFundamentals\Eight\obj\Debug\net5.0\ref\Eight.dll

@@ -1,0 +1,16 @@
+D:\Projects\SharpFundamentals\Fourth\bin\Debug\net5.0\Fourth.exe
+D:\Projects\SharpFundamentals\Fourth\bin\Debug\net5.0\Fourth.deps.json
+D:\Projects\SharpFundamentals\Fourth\bin\Debug\net5.0\Fourth.runtimeconfig.json
+D:\Projects\SharpFundamentals\Fourth\bin\Debug\net5.0\Fourth.runtimeconfig.dev.json
+D:\Projects\SharpFundamentals\Fourth\bin\Debug\net5.0\Fourth.dll
+D:\Projects\SharpFundamentals\Fourth\bin\Debug\net5.0\Fourth.pdb
+D:\Projects\SharpFundamentals\Fourth\obj\Debug\net5.0\Fourth.csproj.AssemblyReference.cache
+D:\Projects\SharpFundamentals\Fourth\obj\Debug\net5.0\Fourth.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\SharpFundamentals\Fourth\obj\Debug\net5.0\Fourth.AssemblyInfoInputs.cache
+D:\Projects\SharpFundamentals\Fourth\obj\Debug\net5.0\Fourth.AssemblyInfo.cs
+D:\Projects\SharpFundamentals\Fourth\obj\Debug\net5.0\Fourth.csproj.CoreCompileInputs.cache
+D:\Projects\SharpFundamentals\Fourth\obj\Debug\net5.0\Fourth.dll
+D:\Projects\SharpFundamentals\Fourth\obj\Debug\net5.0\refint\Fourth.dll
+D:\Projects\SharpFundamentals\Fourth\obj\Debug\net5.0\Fourth.pdb
+D:\Projects\SharpFundamentals\Fourth\obj\Debug\net5.0\Fourth.genruntimeconfig.cache
+D:\Projects\SharpFundamentals\Fourth\obj\Debug\net5.0\ref\Fourth.dll

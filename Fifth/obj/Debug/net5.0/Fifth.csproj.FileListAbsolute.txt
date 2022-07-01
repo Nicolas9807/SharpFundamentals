@@ -1,0 +1,16 @@
+D:\Projects\SharpFundamentals\Fifth\bin\Debug\net5.0\Fifth.exe
+D:\Projects\SharpFundamentals\Fifth\bin\Debug\net5.0\Fifth.deps.json
+D:\Projects\SharpFundamentals\Fifth\bin\Debug\net5.0\Fifth.runtimeconfig.json
+D:\Projects\SharpFundamentals\Fifth\bin\Debug\net5.0\Fifth.runtimeconfig.dev.json
+D:\Projects\SharpFundamentals\Fifth\bin\Debug\net5.0\Fifth.dll
+D:\Projects\SharpFundamentals\Fifth\bin\Debug\net5.0\Fifth.pdb
+D:\Projects\SharpFundamentals\Fifth\obj\Debug\net5.0\Fifth.csproj.AssemblyReference.cache
+D:\Projects\SharpFundamentals\Fifth\obj\Debug\net5.0\Fifth.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\SharpFundamentals\Fifth\obj\Debug\net5.0\Fifth.AssemblyInfoInputs.cache
+D:\Projects\SharpFundamentals\Fifth\obj\Debug\net5.0\Fifth.AssemblyInfo.cs
+D:\Projects\SharpFundamentals\Fifth\obj\Debug\net5.0\Fifth.csproj.CoreCompileInputs.cache
+D:\Projects\SharpFundamentals\Fifth\obj\Debug\net5.0\Fifth.dll
+D:\Projects\SharpFundamentals\Fifth\obj\Debug\net5.0\refint\Fifth.dll
+D:\Projects\SharpFundamentals\Fifth\obj\Debug\net5.0\Fifth.pdb
+D:\Projects\SharpFundamentals\Fifth\obj\Debug\net5.0\Fifth.genruntimeconfig.cache
+D:\Projects\SharpFundamentals\Fifth\obj\Debug\net5.0\ref\Fifth.dll

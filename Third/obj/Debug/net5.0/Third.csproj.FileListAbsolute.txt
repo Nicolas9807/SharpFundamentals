@@ -1,0 +1,16 @@
+D:\Projects\SharpFundamentals\Third\bin\Debug\net5.0\Third.exe
+D:\Projects\SharpFundamentals\Third\bin\Debug\net5.0\Third.deps.json
+D:\Projects\SharpFundamentals\Third\bin\Debug\net5.0\Third.runtimeconfig.json
+D:\Projects\SharpFundamentals\Third\bin\Debug\net5.0\Third.runtimeconfig.dev.json
+D:\Projects\SharpFundamentals\Third\bin\Debug\net5.0\Third.dll
+D:\Projects\SharpFundamentals\Third\bin\Debug\net5.0\Third.pdb
+D:\Projects\SharpFundamentals\Third\obj\Debug\net5.0\Third.csproj.AssemblyReference.cache
+D:\Projects\SharpFundamentals\Third\obj\Debug\net5.0\Third.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\SharpFundamentals\Third\obj\Debug\net5.0\Third.AssemblyInfoInputs.cache
+D:\Projects\SharpFundamentals\Third\obj\Debug\net5.0\Third.AssemblyInfo.cs
+D:\Projects\SharpFundamentals\Third\obj\Debug\net5.0\Third.csproj.CoreCompileInputs.cache
+D:\Projects\SharpFundamentals\Third\obj\Debug\net5.0\Third.dll
+D:\Projects\SharpFundamentals\Third\obj\Debug\net5.0\refint\Third.dll
+D:\Projects\SharpFundamentals\Third\obj\Debug\net5.0\Third.pdb
+D:\Projects\SharpFundamentals\Third\obj\Debug\net5.0\Third.genruntimeconfig.cache
+D:\Projects\SharpFundamentals\Third\obj\Debug\net5.0\ref\Third.dll

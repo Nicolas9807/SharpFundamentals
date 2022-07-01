@@ -1,0 +1,16 @@
+D:\Projects\SharpFundamentals\First\bin\Debug\net5.0\First.exe
+D:\Projects\SharpFundamentals\First\bin\Debug\net5.0\First.deps.json
+D:\Projects\SharpFundamentals\First\bin\Debug\net5.0\First.runtimeconfig.json
+D:\Projects\SharpFundamentals\First\bin\Debug\net5.0\First.runtimeconfig.dev.json
+D:\Projects\SharpFundamentals\First\bin\Debug\net5.0\First.dll
+D:\Projects\SharpFundamentals\First\bin\Debug\net5.0\First.pdb
+D:\Projects\SharpFundamentals\First\obj\Debug\net5.0\First.csproj.AssemblyReference.cache
+D:\Projects\SharpFundamentals\First\obj\Debug\net5.0\First.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\SharpFundamentals\First\obj\Debug\net5.0\First.AssemblyInfoInputs.cache
+D:\Projects\SharpFundamentals\First\obj\Debug\net5.0\First.AssemblyInfo.cs
+D:\Projects\SharpFundamentals\First\obj\Debug\net5.0\First.csproj.CoreCompileInputs.cache
+D:\Projects\SharpFundamentals\First\obj\Debug\net5.0\First.dll
+D:\Projects\SharpFundamentals\First\obj\Debug\net5.0\refint\First.dll
+D:\Projects\SharpFundamentals\First\obj\Debug\net5.0\First.pdb
+D:\Projects\SharpFundamentals\First\obj\Debug\net5.0\First.genruntimeconfig.cache
+D:\Projects\SharpFundamentals\First\obj\Debug\net5.0\ref\First.dll

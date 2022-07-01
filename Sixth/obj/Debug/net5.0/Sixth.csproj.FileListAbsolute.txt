@@ -1,0 +1,16 @@
+D:\Projects\SharpFundamentals\Sixth\bin\Debug\net5.0\Sixth.exe
+D:\Projects\SharpFundamentals\Sixth\bin\Debug\net5.0\Sixth.deps.json
+D:\Projects\SharpFundamentals\Sixth\bin\Debug\net5.0\Sixth.runtimeconfig.json
+D:\Projects\SharpFundamentals\Sixth\bin\Debug\net5.0\Sixth.runtimeconfig.dev.json
+D:\Projects\SharpFundamentals\Sixth\bin\Debug\net5.0\Sixth.dll
+D:\Projects\SharpFundamentals\Sixth\bin\Debug\net5.0\Sixth.pdb
+D:\Projects\SharpFundamentals\Sixth\obj\Debug\net5.0\Sixth.csproj.AssemblyReference.cache
+D:\Projects\SharpFundamentals\Sixth\obj\Debug\net5.0\Sixth.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\SharpFundamentals\Sixth\obj\Debug\net5.0\Sixth.AssemblyInfoInputs.cache
+D:\Projects\SharpFundamentals\Sixth\obj\Debug\net5.0\Sixth.AssemblyInfo.cs
+D:\Projects\SharpFundamentals\Sixth\obj\Debug\net5.0\Sixth.csproj.CoreCompileInputs.cache
+D:\Projects\SharpFundamentals\Sixth\obj\Debug\net5.0\Sixth.dll
+D:\Projects\SharpFundamentals\Sixth\obj\Debug\net5.0\refint\Sixth.dll
+D:\Projects\SharpFundamentals\Sixth\obj\Debug\net5.0\Sixth.pdb
+D:\Projects\SharpFundamentals\Sixth\obj\Debug\net5.0\Sixth.genruntimeconfig.cache
+D:\Projects\SharpFundamentals\Sixth\obj\Debug\net5.0\ref\Sixth.dll
